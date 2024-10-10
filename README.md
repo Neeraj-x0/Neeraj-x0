@@ -173,22 +173,6 @@
     </a>
 </div>
 <br>
-<h2>Listening to</h2>
-<table align="center">
-<tr>
-  <td>
-  <a href="https://open.spotify.com/user/314w2nwrygsrclsmjic3zy2ztrkm">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=314w2nwrygsrclsmjic3zy2ztrkm&count=7&unique=true" alt="Spotify recently played"  />
-  </a>
-  </td>
-  <td>
-  <a href ="https://open.spotify.com/user/314w2nwrygsrclsmjic3zy2ztrkm">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=314w2nwrygsrclsmjic3zy2ztrkm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true">
-  </a>
-  </td>
-  </tr>
-</table>
-
 
 
 <p align="center">
