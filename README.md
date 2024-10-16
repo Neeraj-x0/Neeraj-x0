@@ -132,6 +132,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="30" alt="redhat logo"  />
 </p>
 
+<h2>Holopin Badges</h2>
+<br>
+  <a href="https://holopin.io/@neerajx0" target="_blank">
+<img src="https://holopin.io/api/user/board?user=neerajx0"  alt="Holopin Badges"  />
+</a>
+
 <h2> Connect With Me On </h2>
 <br>
 <p align="center">
