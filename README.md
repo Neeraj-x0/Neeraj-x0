@@ -165,7 +165,7 @@
 <table align="center">
   <tr border="none">
     <td width="50%" align="center">
-       <img src="https://github-readme-stats.vercel.app/api?username=Neeraj-x0&theme=dark&show_icons=true&count_private=true&hide_border=true" align="center"> <br> <br>
+       <img src="https://gitstats-xi.vercel.app//api?username=Neeraj-x0&theme=dark&show_icons=true&count_private=true&hide_border=true" align="center"> <br> <br>
        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neeraj-x0&theme=dark&hide_border=true" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="GitHub Streak">
         </td>
     <td width="50%" align="center">
