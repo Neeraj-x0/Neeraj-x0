@@ -12,8 +12,6 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on  [Api Service Provider](https://www.thexapi.xyz/) 
-
 - 🎓 B.Tech CSE at [Galgotias University](https://www.galgotiasuniversity.edu.in/)
 
 - 🌱 I’m currently learning Full Stack Development
