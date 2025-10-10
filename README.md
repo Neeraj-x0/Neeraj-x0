@@ -58,26 +58,16 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
 
-## 🏆 Holopin Badges
-
-<a href="https://holopin.io/@neerajx0" target="_blank">
-  <img src="https://holopin.io/api/user/board?user=neerajx0" alt="Holopin Badges" />
-</a>
 
 ## 📊 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://gitstats-xi.vercel.app//api?username=Neeraj-x0&theme=dark&show_icons=true&count_private=true&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Neeraj-x0&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=6&layout=compact" />
-</div>
-
-<div align="center">
+  </p> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neeraj-x0&theme=dark&hide_border=true" />
 </div>
 
-<div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Neeraj-x0&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" />
-</div>
 
 ## 🤝 Connect With Me
 
