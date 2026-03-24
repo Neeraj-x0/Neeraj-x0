@@ -10,12 +10,8 @@
 
 <img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🎓 B.Tech CSE at [Galgotias University](https://www.galgotiasuniversity.edu.in/)
-- 🌱 Currently learning Full Stack Development
 - 👯 Open to collaborate on interesting projects
-- 💬 Ask me about Node.js, Python, IoT
 - 💡 Open Source enthusiast
-- ⚙️ Tech stack: VS Code, Arduino, Raspberry Pi, IoT devices
 - ⚡ Fun fact: The longest open pull request on GitHub lasted 2,993 days! 😄
 
 ## 🛠️ Technologies & Tools
