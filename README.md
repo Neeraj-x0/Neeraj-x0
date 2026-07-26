@@ -2,16 +2,16 @@
 
 Software Development Engineer @ **[Tekvora Innovations](https://tekvora.co.in)**
 
-I build backend systems, distributed applications, cloud infrastructure and open-source software.
+I build backend systems, distributed applications, and cloud infrastructure — with a focus on messaging platforms and multi-tenant architectures.
 
-Website: **https://neerajx0.xyz**
+**Website:** [neerajx0.xyz](https://neerajx0.xyz)
 
 ---
 
 ## Current
 
-- Building **Campusyn**, a multi-tenant school ERP
-- Maintaining **X-Asena**
+- Building **Campusyn**, a multi-tenant school ERP (Spring Boot + Next.js)
+- Maintaining **X-Asena**, an open-source WhatsApp automation framework, and **X-Asena CloudConnect**, built on top of it for enterprise use
 - Working on backend infrastructure and developer tooling
 
 ---
@@ -19,52 +19,32 @@ Website: **https://neerajx0.xyz**
 ## Projects
 
 ### X-Asena
-
-Open-source WhatsApp automation framework.
-
-- **Repository:** https://github.com/Neeraj-x0/X-Asena
+Open-source WhatsApp automation framework — handles session management, message routing, and event handling for building bots and integrations on top of WhatsApp.
+**83 stars · 251 forks** — actively cloned and built upon by other developers.
+Published on npm as [`x-asena`](https://www.npmjs.com/package/x-asena).
+**Repository:** [github.com/Neeraj-x0/X-Asena](https://github.com/Neeraj-x0/X-Asena)
 
 ### X-Asena CloudConnect
-
-Enterprise WhatsApp Business API platform.
-
-- **Repository:** https://github.com/Neeraj-x0/X-Asena-CloudConnect
+Enterprise-grade extension of X-Asena for the WhatsApp Business API — built after real usage of the core framework surfaced the need for multi-account management and cloud-hosted reliability at scale.
+**Repository:** [github.com/Neeraj-x0/X-Asena-CloudConnect](https://github.com/Neeraj-x0/X-Asena-CloudConnect)
 
 ### Campusyn
-
-Multi-tenant School ERP built with Spring Boot and Next.js.
+Multi-tenant School ERP designed to serve multiple institutions from a single deployment — tenant isolation, role-based access, and a Spring Boot backend paired with a Next.js frontend.
+*(In active development — working demo, not yet in production.)*
 
 ---
 
 ## Technologies
 
-Java · Spring Boot · TypeScript · Node.js · Next.js
-
-PostgreSQL · Redis · MongoDB
-
-Docker · AWS · Google Cloud · Linux
-
----
-
-## GitHub
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Neeraj-x0&theme=github_dark"/>
-</p>
-
-<p align="center">
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Neeraj-x0&theme=github_dark"/>
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Neeraj-x0&theme=github_dark"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Neeraj-x0&theme=github-compact&hide_border=true"/>
-</p>
+**Backend:** Java · Spring Boot · TypeScript · Node.js
+**Frontend:** Next.js
+**Data:** PostgreSQL · Redis · MongoDB
+**Infra:** Docker · AWS · Google Cloud · Linux
 
 ---
 
 ## Elsewhere
 
-- Website — https://neerajx0.xyz
-- LinkedIn — https://linkedin.com/in/neeraj-x0
+- Website — [neerajx0.xyz](https://neerajx0.xyz)
+- LinkedIn — [linkedin.com/in/neeraj-x0](https://linkedin.com/in/neeraj-x0)
 - Email — contact@neerajx0.xyz
