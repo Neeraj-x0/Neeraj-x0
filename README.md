@@ -1,6 +1,6 @@
 # Neeraj Krishna
 
-Software Development Engineer @ **[Tekvora Innovations](https://tekvora.co.in)**
+Software Development Engineer @ **[Draway Technologies](https://draway.in)**
 
 I build backend systems, distributed applications, and cloud infrastructure — with a focus on messaging platforms and multi-tenant architectures.
 
